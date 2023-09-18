@@ -1,0 +1,15 @@
+E:\SQL.NET.WEb\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+E:\SQL.NET.WEb\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+E:\SQL.NET.WEb\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.AssemblyReference.cache
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.ShopHDD.resources
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.cache
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.FrmDoiMk.resources
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.FrmKhachHang.resources
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.FrmNhanVien.resources
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.FrmQuanLi.resources
+E:\SQL.NET.WEb\ShopQuanAo\obj\Debug\ShopQuanAo.FrmThongKe.resources
